@@ -53,7 +53,7 @@ XNOR
 <img width="693" height="483" alt="image" src="https://github.com/user-attachments/assets/1de74098-dc3e-4173-8acd-ec4c3c953b4c" />
 
 
-Tabulation:1
+Tabulation:1 
 
 <img width="569" height="310" alt="image" src="https://github.com/user-attachments/assets/cfa19823-7dc4-4b03-a81a-cce46be34088" />
 
